@@ -2,7 +2,6 @@
 - 👀 I’m interested in high-energy physics describing the fundamental interactions of the universe.
 - 🌱 I’m currently focusing on building particle detectors to hunt neutrinos and dark matter
 - 😄 Pronouns: he/his/him
-- ⚡ Fun fact: I am a kappa!
 
 <!---
 misong2002/misong2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
