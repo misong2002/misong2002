@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @misong2002
-- 👀 I’m interested in the fundamental interactions of nature, studied through neutrino physics.
+- 👀 I’m interested in the fundamental laws of nature, studied through neutrino physics.
 - 🔬 Member of the Hyper-Kamiokande collaboration.
 - 🌌 My research focuses on probing Beyond Standard Model (BSM) physics using long-baseline (LBL) neutrino experiments.
 - ⚛️ I work on neutrino–nucleus interaction modeling and phenomenology for precision oscillation measurements.
